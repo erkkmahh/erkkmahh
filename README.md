@@ -2,7 +2,7 @@
 
 ---
 
-<h3 align="center">Robotics, Motion Control &amp; System Integration Engineer</h3>
+<h3 align="center">Automation Application Engineer &amp; Software Developer | Aspiring AI Engineer</h3>
 
 <h3 align="left">Connect with me:</h3>
 
