@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48" role="img" aria-label="Large Language Models — learning">
+ <rect width="48" height="48" rx="11" fill="#24233c"/>
+ <g fill="none" stroke="#a5b4fc" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+  <path d="M11 12h22a4 4 0 0 1 4 4v12a4 4 0 0 1-4 4H22l-9 6v-6h-2a4 4 0 0 1-4-4V16a4 4 0 0 1 4-4Z"/>
+  <path d="m16 20-4 4 4 4m14-8 4 4-4 4m-7-10-3 12"/>
+ </g>
+</svg>

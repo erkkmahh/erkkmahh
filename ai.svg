@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48" role="img" aria-label="AI Engineering — learning">
+ <rect width="48" height="48" rx="11" fill="#0f2832"/>
+ <g fill="none" stroke="#2dd4bf" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+  <rect x="14" y="14" width="20" height="20" rx="4"/>
+  <path d="M19 9v5m10-5v5M19 34v5m10-5v5M9 19h5m-5 10h5m20-10h5m-5 10h5M20 27v-6l4-2 4 2v6l-4 2-4-2m4-8v10m-4-8 8 6m0-6-8 6"/>
+ </g>
+</svg>
