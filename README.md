@@ -16,19 +16,17 @@
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=cs,dotnet,py" alt="C#, .NET and Python" height="48" />
+  <img src="https://raw.githubusercontent.com/erkkmahh/erkkmahh/main/ai.svg" alt="AI Engineering — learning" title="AI Engineering — learning" width="48" height="48" />
+  <img src="https://raw.githubusercontent.com/erkkmahh/erkkmahh/main/llm.svg" alt="Large Language Models — learning" title="Large Language Models — learning" width="48" height="48" />
+  <img src="https://raw.githubusercontent.com/erkkmahh/erkkmahh/main/deep-learning.svg" alt="Deep Learning — learning" title="Deep Learning — learning" width="48" height="48" />
 </p>
 
 <p align="left">
+  <img src="https://img.shields.io/badge/Motion_Control-00897B?style=for-the-badge" alt="Motion Control" />
+  <img src="https://img.shields.io/badge/CNC-1565C0?style=for-the-badge" alt="CNC" />
+  <img src="https://img.shields.io/badge/Robotics-E65100?style=for-the-badge" alt="Robotics" />
+  <img src="https://img.shields.io/badge/PLC-455A64?style=for-the-badge" alt="PLC" />
+  <img src="https://img.shields.io/badge/UI-7B1FA2?style=for-the-badge" alt="UI Development" />
   <img src="https://img.shields.io/badge/WPF-512BD4?style=for-the-badge" alt="WPF" />
-  <img src="https://img.shields.io/badge/FANUC-FOCAS2-F4D43A?style=for-the-badge&amp;labelColor=222222" alt="FANUC FOCAS2" />
-  <img src="https://img.shields.io/badge/OMRON-005EB8?style=for-the-badge" alt="Omron NX" />
-  <img src="https://img.shields.io/badge/SIEMENS-009999?style=for-the-badge" alt="Siemens" />
-  <img src="https://img.shields.io/badge/CODESYS-C62828?style=for-the-badge" alt="CODESYS" />
-  <img src="https://img.shields.io/badge/KUKA-FF6600?style=for-the-badge" alt="KUKA robotics" />
-</p>
-
-<p align="left">
-  <img src="https://raw.githubusercontent.com/erkkmahh/erkkmahh/main/ai.svg" width="48" height="48" alt="AI Engineering" />
-<img src="https://raw.githubusercontent.com/erkkmahh/erkkmahh/main/llm.svg" width="48" height="48" alt="LLMs" />
-<img src="https://raw.githubusercontent.com/erkkmahh/erkkmahh/main/deep-learning.svg" width="48" height="48" alt="Deep Learning" />
+  <img src="https://img.shields.io/badge/HMI-0097A7?style=for-the-badge" alt="HMI" />
 </p>
