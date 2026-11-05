@@ -28,7 +28,7 @@
 </p>
 
 <p align="left">
-  <img src="images/ai.svg" alt="AI Engineering — learning" title="AI Engineering — learning" width="48" height="48" />
-  <img src="images/llm.svg" alt="Large Language Models — learning" title="Large Language Models — learning" width="48" height="48" />
-  <img src="images/deep-learning.svg" alt="Deep Learning — learning" title="Deep Learning — learning" width="48" height="48" />
+  <img src="https://raw.githubusercontent.com/erkkmahh/erkkmahh/main/ai.svg" width="48" height="48" alt="AI Engineering" />
+<img src="https://raw.githubusercontent.com/erkkmahh/erkkmahh/main/llm.svg" width="48" height="48" alt="LLMs" />
+<img src="https://raw.githubusercontent.com/erkkmahh/erkkmahh/main/deep-learning.svg" width="48" height="48" alt="Deep Learning" />
 </p>
