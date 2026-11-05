@@ -1,16 +1,34 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Mahmut</h1>
 
-<!--
-**erkkmahh/erkkmahh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+<h3 align="center">Robotics, Motion Control &amp; System Integration Engineer</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="left">Connect with me:</h3>
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/mahmuterken/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="Mahmut Erken on LinkedIn" width="40" height="40" /></a>
+  &nbsp;
+  <a href="https://www.youtube.com/@AutomationFusion" target="_blank"><img src="https://cdn.simpleicons.org/youtube/FF0000" alt="AutomationFusion on YouTube" width="40" height="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,py" alt="C#, .NET and Python" height="48" />
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/WPF-512BD4?style=for-the-badge" alt="WPF" />
+  <img src="https://img.shields.io/badge/FANUC-FOCAS2-F4D43A?style=for-the-badge&amp;labelColor=222222" alt="FANUC FOCAS2" />
+  <img src="https://img.shields.io/badge/OMRON-005EB8?style=for-the-badge" alt="Omron NX" />
+  <img src="https://img.shields.io/badge/SIEMENS-009999?style=for-the-badge" alt="Siemens" />
+  <img src="https://img.shields.io/badge/CODESYS-C62828?style=for-the-badge" alt="CODESYS" />
+  <img src="https://img.shields.io/badge/KUKA-FF6600?style=for-the-badge" alt="KUKA robotics" />
+</p>
+
+<p align="left">
+  <img src="images/ai.svg" alt="AI Engineering — learning" title="AI Engineering — learning" width="48" height="48" />
+  <img src="images/llm.svg" alt="Large Language Models — learning" title="Large Language Models — learning" width="48" height="48" />
+  <img src="images/deep-learning.svg" alt="Deep Learning — learning" title="Deep Learning — learning" width="48" height="48" />
+</p>
